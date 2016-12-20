@@ -1,0 +1,5 @@
+#these files are ignored because they exceed the maximum allowed file size on github, 100MB
+data/
+*.pyc
+__pycache__/
+
